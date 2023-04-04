@@ -25,6 +25,8 @@ code {
   --bg-main: #1C1D21;
   --bg-sy: #17181B;
   --bg-yellow: #FBAF32;
+  --py-fontColor: #eee;
+  --sy-fontColor: #B7B7A9;
 }
 
 .container{
